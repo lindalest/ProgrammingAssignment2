@@ -7,7 +7,6 @@
 # 4. Get the value of the inverse
 
 
-
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL #sets the value of inv to Null, provides a default if cacheSolve has not been used
   set <- function(y) {
